@@ -1,0 +1,4 @@
+git clone https://github.com/plusjade/jekyll-bootstrap.git blackipod.github.com
+cd blackipod.github.com
+git remote set-url origin git@github.com:blackipod/blackipod.github.com.git
+git push origin master
